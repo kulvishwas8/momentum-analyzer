@@ -86,3 +86,4 @@ else:
 
 st.write('DISCLAIMER:The purpose of application is to make user aware of a concept.'
          'It should not be construed as a financial advice in any way')
+
